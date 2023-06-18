@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190901325/130769932-frontend-development-web-banner-concept-website-interface.jpg)
+
 <h1 align="center">Hi 👋, I'm Faizan Aziz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
